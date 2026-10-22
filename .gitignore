@@ -1,23 +1,10 @@
-# Visual Studio
+
 .vs/
+**/.vs/
 *.user
 *.suo
 
-# Результаты сборки
 **/bin/
 **/obj/
 
-# Временные файлы
-*.tmp
-*.log
-
-# Секреты и локальные настройки
-appsettings.Development.json
-
-# Файлы базы данных SQL Server
-*.mdf
-*.ldf
-
-# Файлы операционной системы
-Thumbs.db
-.DS_Store
+*.vsidx
